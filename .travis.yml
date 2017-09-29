@@ -2,7 +2,6 @@ language: ruby
 rvm:
 - 2.3.3
 
-install: gem install jekyll jekyll-feed html-proofer
 script: jekyll build && htmlproofer ./_site --disable-external
 
 env:
