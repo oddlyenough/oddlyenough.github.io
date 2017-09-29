@@ -1,2 +1,2 @@
-# oddlyenough.github.io
-Source for the github site
+# Oddly Enough
+Source for the parent site
