@@ -5,4 +5,7 @@ permalink: /me/
 ---
 
 About me ?
-Meow......
+
+({{ site.url }}/assets/images/profile.png)
+
+Meeeeeoooooooooooowwwwwwwwwwww......
