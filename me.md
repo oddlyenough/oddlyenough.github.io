@@ -6,6 +6,6 @@ permalink: /me/
 
 About me ?
 
-({{ site.url }}/assets/images/profile.png)
+![Arun B]({{ site.url }}/assets/images/profile.png "Arun")
 
 Meeeeeoooooooooooowwwwwwwwwwww......
